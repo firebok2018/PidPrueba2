@@ -16,6 +16,7 @@ public class Ejecucion {
 		System.out.println(m);
 		System.out.println(q);
 			
+		System.out.println("Rony Lima Loza");
 	}
 
 }
