@@ -19,6 +19,7 @@ public class Ejecucion {
 		System.out.println("Jorge Jacinto Gutarra");
 			
 		System.out.println("Rony Lima Loza");
+		System.out.println("Suyin Silva Contreras");
 	}
 
 }
