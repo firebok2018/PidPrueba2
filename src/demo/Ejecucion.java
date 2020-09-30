@@ -15,6 +15,8 @@ public class Ejecucion {
 		System.out.println(z);
 		System.out.println(m);
 		System.out.println(q);
+		
+		System.out.println("Jorge Jacinto Gutarra");
 			
 	}
 
