@@ -10,12 +10,14 @@ public class Ejecucion {
 		int q = 2020;
 		int s = 9920;
 		
+		
 		System.out.println(x500);
 		System.out.println(y);
 		System.out.println(z);
 		System.out.println(m);
 		System.out.println(q);
 		System.out.println(s);
+		System.out.println("Samuel Rv");
 			
 	}
 
