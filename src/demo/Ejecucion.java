@@ -3,6 +3,7 @@ package demo;
 public class Ejecucion {
 
 	public static void main(String[] args) {
+
 		int x1 = 1;
 		int y = 2;
 		int z = 3;
