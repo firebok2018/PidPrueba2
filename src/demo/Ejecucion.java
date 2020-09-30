@@ -1,7 +1,6 @@
 
 package demo;
 
-
 public class Ejecucion {
 
 	public static void main(String[] args) {
@@ -22,8 +21,12 @@ public class Ejecucion {
 			
 		System.out.println("Rony Lima Loza");
 		System.out.println("Suyin Silva Contreras");
+
+		System.out.println("Molina Quiroz Franco");
+
 		System.out.println("Jose Luis Carrillo Tello" + "luchjto");
 		System.out.println("Samuel Rv");
+
 	}
 
 }
