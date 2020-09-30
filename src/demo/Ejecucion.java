@@ -16,7 +16,8 @@ public class Ejecucion {
 		System.out.println(m);
 		System.out.println(q);
 		System.out.println(z);
-			
+	    
+		System.out.println("Jose Luis Carrillo Tello");
 	}
 
 }
